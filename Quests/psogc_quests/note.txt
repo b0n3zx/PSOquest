@@ -1,0 +1,2 @@
+so turns out these wouldnt work as-is, because download quests are tied to serial number/access key.
+working on creating a utility to transfer these between different users.
